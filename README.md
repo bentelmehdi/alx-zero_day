@@ -1,1 +1,2 @@
-My first readme updated
+im new in this 
+
